@@ -3,6 +3,7 @@ assets/
 style.css
 
 # Dependencies
+composer.lock
 vendor
 node_modules
 bower_components
