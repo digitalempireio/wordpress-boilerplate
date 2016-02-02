@@ -1,0 +1,15 @@
+{
+  "require": {
+    "wpackagist-plugin/timber-library": "dev-trunk"
+  },
+  "repositories": [{
+    "type": "composer",
+    "url": "http://wpackagist.org"
+  }],
+  "extra": {
+    "installer-paths": {
+      "../../plugins/{$name}/": ["type:wordpress-plugin"],
+      "../../themes/{$name}/": ["type:wordpress-theme"]
+    }
+  }
+}

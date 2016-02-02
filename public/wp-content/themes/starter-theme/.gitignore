@@ -1,0 +1,11 @@
+# Build output
+assets/
+style.css
+
+# Dependencies
+vendor
+node_modules
+bower_components
+
+# Misc
+npm-debug.log

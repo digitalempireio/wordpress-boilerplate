@@ -1,0 +1,4 @@
+@mixin all-caps($letter-spacing: .1em) {
+  letter-spacing: $letter-spacing;
+  text-transform: uppercase;
+}
