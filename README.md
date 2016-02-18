@@ -7,7 +7,6 @@ Make sure you have the following installed on your local machine:
 1. Vagrant
 2. Composer
 3. Node
-4. Gulp
 
 ### Setup
 
