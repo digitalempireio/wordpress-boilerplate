@@ -30,7 +30,7 @@ Make sure you have the following installed on your local machine:
 
 1. Install WordPress on the machine you will be deploying to.
 
-2. Run the build script at the root of the repo `$ ./build.sh`. This will install plugins and dependencies, and compile static assets for production.
+2. Run the build script at the root of the repo `$ ./build.sh`. This will install plugins and dependencies, as well as compile static assets for production.
 
 3. Deploy everything from the root of this repo to the root of the WordPress installation on the remote machine.
 
