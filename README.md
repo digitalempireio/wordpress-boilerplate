@@ -32,6 +32,7 @@ Make sure you have the following installed on your local machine:
 
 2. Run the build script at the root of the repo `$ ./build.sh`. This will install plugins and dependencies, as well as compile static assets for production.
 
-3. Deploy everything from the root of this repo to the root of the WordPress installation on the remote machine.
+3. Deploy everything from the `/public` directory of this repo to the root of the WordPress installation on the remote machine.
+  - `/public` --> `/var/www/remote-site-dir`
 
 **Note**: If you are using Git as part of your deployment strategy, keep in mind that compiled assets are ignored and will not be deployed when doing a `git push` or `git pull`. One way to get around this is to run the build script on the remote machine after the entire repo has been deployed.
