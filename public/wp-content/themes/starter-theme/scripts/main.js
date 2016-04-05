@@ -1,1 +1,1 @@
-import './components/example-component';
+console.log('hewwo');
