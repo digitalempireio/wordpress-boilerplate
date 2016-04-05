@@ -92,6 +92,7 @@ Thumbs.db
 !README.md
 !CHANGELOG.md
 !composer.json
+!composer.lock
 
 # track these mu-plugins, plugins, and themes
 # add your own entries here
