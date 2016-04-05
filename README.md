@@ -1,6 +1,6 @@
 # Getting Started
 
-### Prerequisites
+## Prerequisites
 
 Make sure you have the following installed on your local machine:
 
@@ -8,7 +8,7 @@ Make sure you have the following installed on your local machine:
 2. Composer
 3. Node
 
-### Setup
+## Setup
 
 1. Clone this repo.
 2. ```$ vagrant up```
@@ -19,14 +19,14 @@ Make sure you have the following installed on your local machine:
   - **DB Username**: root
   - **DB Password**: root
 
-### Theme Development
+## Theme Development
 
 1. Open up your terminal, and ```cd``` to ```/public/wp-content/themes/starter-theme/```.
 2. Install dependencies by running ```npm run bootstrap```.
 3. Run ```npm run develop```. This will startup a few watch tasks via Gulp that rebuild stylesheets and scripts as you make changes.
 4. Visit http://localhost:8080/ for BrowerSync goodness.
 
-### How to deploy
+## How to deploy
 
 1. Install WordPress on the machine you will be deploying to.
 
