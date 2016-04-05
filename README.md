@@ -23,8 +23,8 @@ Make sure you have the following installed on your local machine:
 
 1. Open up your terminal, and ```cd``` to ```/public/wp-content/themes/starter-theme/```.
 2. Install dependencies by running ```npm run bootstrap```.
-3. Run ```npm run develop```. This will startup a few watch tasks via Gulp that rebuild stylesheets and scripts as you make changes.
-4. Visit http://localhost:8080/ for BrowerSync goodness.
+3. Run ```npm run develop```. This will startup a few watch tasks via Gulp that rebuilds stylesheets and scripts as you make changes.
+4. Visit http://localhost:8080/ for BrowserSync goodness.
 
 ## How to deploy
 
